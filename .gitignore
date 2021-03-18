@@ -14,3 +14,4 @@
 *.pdf
 */Servers/
 /.ipynb_checkpoints
+/0.dataSet
